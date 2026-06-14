@@ -6,7 +6,7 @@
 
 - Guilherme Tomaz
 - Mateus Maia
-- Nicolle
+- Nicolle Meireles
 - João Pedro Barreiro
 - Rafael de Sousa Salgado
 
