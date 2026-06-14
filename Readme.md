@@ -36,7 +36,7 @@
 
 | Questão | Arquivos |
 |---------|----------|
-| [Questão 1](Parte%202/Questao%201/)  | [entrada.sql](Parte%202/Questao%201/entrada.sql) |
-| [Questão 2](Parte%202/Questao%202/)  | [entrada.sql](Parte%202/Questao%202/entrada.sql) |
-| [Questão 3](Parte%202/Questao%203/)  | [entrada.sql](Parte%202/Questao%203/entrada.sql) |
+| [Questão 1](Parte%202/Questao%201/)  | [entrada.sql](Parte%202/Questao%201/entrada.sql) \| [saida.md](Parte%202/Questao%201/saida.md) |
+| [Questão 2](Parte%202/Questao%202/)  | [entrada.sql](Parte%202/Questao%202/entrada.sql) \| [saida.md](Parte%202/Questao%202/saida.md) |
+| [Questão 3](Parte%202/Questao%203/)  | [entrada.sql](Parte%202/Questao%203/entrada.sql) \| [saida.md](Parte%202/Questao%203/saida.md) |
 | [Questão 4](Parte%202/Questao%204/)  | [entrada.sql](Parte%202/Questao%204/entrada.sql) \| [saida.md](Parte%202/Questao%204/saida.md) |
